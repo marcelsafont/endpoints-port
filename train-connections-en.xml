@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviciosferroviarios>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Lleida</destino>
+<iddestino>12</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Pla Vilanoveta</terminalferroviariaDestino>
+<plansalida>TuTh-04:00</plansalida>
+<planllegada>TuTh-09:00</planllegada>
+<horasalida>04:00</horasalida>
+<horallegada>09:00</horallegada>
+<observaciones>Confirm schedules with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Lleida</origen>
+<idorigen>12</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Pla Vilanoveta</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>TuTh-13:00</plansalida>
+<planllegada>TuTh-18:00</planllegada>
+<horasalida>13:00</horasalida>
+<horallegada>18:00</horallegada>
+<observaciones>Confirm schedules with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Shuttlewise</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Rotterdam</destino>
+<iddestino>103</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>CTT Rotterdam</terminalferroviariaDestino>
+<plansalida>TuThSa-21:00</plansalida>
+<planllegada>FrSuTu-07:00</planllegada>
+<horasalida>21:00</horasalida>
+<horallegada>07:00+3</horallegada>
+<observaciones>Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Shuttlewise</descservicio>
+<origen>Rotterdam</origen>
+<idorigen>103</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>CTT Rotterdam</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoWeFr-20:00</plansalida>
+<planllegada>ThSaMo-07:00</planllegada>
+<horasalida>20:00</horasalida>
+<horallegada>07:00+3</horallegada>
+<observaciones>Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail Bettembourg-Barcelona</descservicio>
+<origen>Bettembourg</origen>
+<idorigen>65</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Bettembourg</terminalferroviaria>
+<terminalferroviariaDestino>Can Tunis</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-23:00</plansalida>
+<planllegada>WeThFrSaSu-17:30</planllegada>
+<horasalida>23:00</horasalida>
+<horallegada>17:30+2</horallegada>
+<observaciones>Schedules to be confirmed with the operator
+Barcelona terminal: Can Tunis-Grupo Alonso</observaciones>
+<tipoCarga>REMOLQUE</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>DB Cargo Logsitics - Rail Motorway</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Saarbrucken</destino>
+<iddestino>100</iddestino>
+<operador>DB CARGO</operador>
+<terminalferroviaria>Perpignan</terminalferroviaria>
+<terminalferroviariaDestino>Saarbrucken</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-16:00</plansalida>
+<planllegada>TuWeThFrSaSu-16:00</planllegada>
+<horasalida>16:00</horasalida>
+<horallegada>16:00+1</horallegada>
+<observaciones>Service Perpignan-Saarbrücken. Craneable semi-trailers and containers.
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>DB Cargo Logistics - Rail Motorway</descservicio>
+<origen>Saarbrucken</origen>
+<idorigen>100</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>DB CARGO</operador>
+<terminalferroviaria>Saarbrucken</terminalferroviaria>
+<terminalferroviariaDestino>Perpignan</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-16:30</plansalida>
+<planllegada>WeThFrSaSuMo-00:08</planllegada>
+<horasalida>16:30</horasalida>
+<horallegada>00:08+2</horallegada>
+<observaciones>Service Saarbrücken-Perpignan. Craneable semi-trailers and containers
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Synergy</descservicio>
+<origen>Miranda de Ebro</origen>
+<idorigen>40</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>BESTLO</operador>
+<terminalferroviaria>Miranda de Ebro</terminalferroviaria>
+<terminalferroviariaDestino>Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeFr-00:00</plansalida>
+<planllegada>TuWeThSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Miranda de Ebro Terminal  (Burgos).
+Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Synergy</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Miranda de Ebro</destino>
+<iddestino>40</iddestino>
+<operador>BESTLO</operador>
+<terminalferroviaria>Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Miranda de Ebro</terminalferroviariaDestino>
+<plansalida>MoTuThFr-00:00</plansalida>
+<planllegada>TuWeFrSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Miranda de Ebro Terminal (Burgos).
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>N/D</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>San Roque</origen>
+<idorigen>60</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>San Roque</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>TuFr-19:00</plansalida>
+<planllegada>WeSa-18:30</planllegada>
+<horasalida>19:00</horasalida>
+<horallegada>18:30+1</horallegada>
+<observaciones>Arrivals We/Sa 18:30.
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>San Roque</destino>
+<iddestino>60</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>San Roque</terminalferroviariaDestino>
+<plansalida>MoTh-10:55</plansalida>
+<planllegada>TuFr-11:30</planllegada>
+<horasalida>10:55</horasalida>
+<horallegada>11:30+1</horallegada>
+<observaciones>Arrivals We/Fr 11:30
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>Cordoba</origen>
+<idorigen>29</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Córdoba-El Higuerón</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>TuFr-21:00</plansalida>
+<planllegada>WeSa-18:30</planllegada>
+<horasalida>21:00</horasalida>
+<horallegada>18:30+1</horallegada>
+<observaciones>Arrivals We/Sa 18:30.
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Cordoba</destino>
+<iddestino>29</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Córdoba-El Higuerón</terminalferroviariaDestino>
+<plansalida>MoTh-10:55</plansalida>
+<planllegada>TuFr-05:00</planllegada>
+<horasalida>10:55</horasalida>
+<horallegada>05:00+1</horallegada>
+<observaciones>Arrivals We/Fr 05:00.
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>Sevilla</origen>
+<idorigen>36</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Sevilla-La Negrilla</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoWeFr-18:00</plansalida>
+<planllegada>TuThSa-17:30</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>17:30+1</horallegada>
+<observaciones>Arrivals We/Sa 17:30.
+Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Multirail</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Sevilla</destino>
+<iddestino>36</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Sevilla-La Negrilla</terminalferroviariaDestino>
+<plansalida>MoTh-10:55</plansalida>
+<planllegada>TuFr-09:00</planllegada>
+<horasalida>10:55</horasalida>
+<horallegada>09:00+1</horallegada>
+<observaciones>Arrivals Mo/We/Fr 09:00.
+Schedules to be confirmed with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>SICSA Rail Transport</descservicio>
+<origen>Zaragoza</origen>
+<idorigen>26</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>SICSA  RAIL TRANSP.</operador>
+<terminalferroviaria>LTA</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM)</terminalferroviariaDestino>
+<plansalida>TuThSa-00:00</plansalida>
+<planllegada>WeFrSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Railway siding LTA (Zaragoza PLAZA, Spain). Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>N/D</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>SICSA Rail Transport</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Zaragoza</destino>
+<iddestino>26</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Moll Sud (APM)</terminalferroviaria>
+<terminalferroviariaDestino>LTA</terminalferroviariaDestino>
+<plansalida>MoWeFr-00:00</plansalida>
+<planllegada>TuThSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Railway siding LTA (Zaragoza PLAZA, Spain). Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>N/D</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway / Synergy</descservicio>
+<origen>Madrid</origen>
+<idorigen>82</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Azuqueca de Henares</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoWeThFr-00:00</plansalida>
+<planllegada>TuThFrSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway / Synergy</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Madrid</destino>
+<iddestino>82</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Moll Prat (BEST) - Moll Sud (APM)</terminalferroviaria>
+<terminalferroviariaDestino>Azuqueca de Henares</terminalferroviariaDestino>
+<plansalida>MoTuThFr-00:00</plansalida>
+<planllegada>TuWeFrSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator. </observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Murcia</destino>
+<iddestino>71</iddestino>
+<operador>RENFE OPERADORA</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Murcia Mercancías</terminalferroviariaDestino>
+<plansalida>MoTuWe-00:00</plansalida>
+<planllegada>TuWeTh-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail. Le Boulou-Dover</descservicio>
+<origen>Dover</origen>
+<idorigen>89</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Dover</terminalferroviaria>
+<terminalferroviariaDestino>Le Boulou - El Voló</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-00:00</plansalida>
+<planllegada>TuWeThFrSaSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator.
+Barcelona-Le Boulou 173 km.</observaciones>
+<tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail. Dover -Le Boulou</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Dover</destino>
+<iddestino>89</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Le Boulou - El Voló</terminalferroviaria>
+<terminalferroviariaDestino>Dover</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-00:00</plansalida>
+<planllegada>TuWeThFrSaSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator.
+Barcelona-Le Boulou 173 km.</observaciones>
+<tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail. Calais - Le Boulou</descservicio>
+<origen>Calais</origen>
+<idorigen>90</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Calais</terminalferroviaria>
+<terminalferroviariaDestino>Le Boulou - El Voló</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-00:00</plansalida>
+<planllegada>TuWeThFrSaSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedules to be confirmed with the operator.
+Barcelona-Le Boulou: 173 km.</observaciones>
+<tipoCarga>N/D</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail. Le Boulou-Calais</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Calais</destino>
+<iddestino>90</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Le Boulou - El Voló</terminalferroviaria>
+<terminalferroviariaDestino>Calais</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-00:00</plansalida>
+<planllegada>TuWeThFrSaSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Schedule to be confirmed with the operator.
+Barcelona-Le Boulou: 173 Km.</observaciones>
+<tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Murcia</origen>
+<idorigen>71</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>RENFE OPERADORA</operador>
+<terminalferroviaria>Murcia Mercancías</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWe-20:53</plansalida>
+<planllegada>TuWeTh-10:29</planllegada>
+<horasalida>20:53</horasalida>
+<horallegada>10:29+1</horallegada>
+<observaciones>Confirm schedule with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Dourges</descservicio>
+<origen>Dourges                            </origen>
+<idorigen>62</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Dourges</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-17:30</plansalida>
+<planllegada>WeThFrSaSu-07:00</planllegada>
+<horasalida>17:30</horasalida>
+<horallegada>07:00+2</horallegada>
+<observaciones>Origin terminal: Dourges (Lille, France)
+Destination terminals in Barcelona: TCB, BEST and Morrot
+Collaboration with Novatrans.
+Confirm schedule with the operador.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Dourges</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Dourges                            </destino>
+<iddestino>62</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Dourges</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-18:00</plansalida>
+<planllegada>WeThFrSaSu-09:30</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>09:30+2</horallegada>
+<observaciones>Origin terminals in Barcelona: TCB, BEST and Morrot.
+Destination terminal: Dourges (Lille, France)
+Collaboration with Novatrans.
+Confirm schedules with the operador.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Synergy</descservicio>
+<origen>Pamplona</origen>
+<idorigen>18</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>BESTLO</operador>
+<terminalferroviaria>Noáin</terminalferroviaria>
+<terminalferroviariaDestino>Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-20:37</plansalida>
+<planllegada>TuWeThFrSaSu-06:30</planllegada>
+<horasalida>20:37</horasalida>
+<horallegada>06:30+1</horallegada>
+<observaciones>Origin terminal : Noáin (Pamplona, Spain).
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Synergy</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Pamplona</destino>
+<iddestino>18</iddestino>
+<operador>BESTLO</operador>
+<terminalferroviaria>Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Noáin</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-22:00</plansalida>
+<planllegada>TuWeThFrSaSu-11:25</planllegada>
+<horasalida>22:00</horasalida>
+<horallegada>11:25+1</horallegada>
+<observaciones>Terminal Noáin (Navarre, Spain).
+Confirm schedules with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Lisboa</origen>
+<idorigen>11</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Bobadela</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoWeFr-10:00</plansalida>
+<planllegada>WeFrSu-12:30</planllegada>
+<horasalida>10:00</horasalida>
+<horallegada>12:30+2</horallegada>
+<observaciones>Destination terminal: Bobadela (Portugal).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Lisboa</destino>
+<iddestino>11</iddestino>
+<operador>N/D</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Bobadela</terminalferroviariaDestino>
+<plansalida>MoWeFr-16:30</plansalida>
+<planllegada>WeFrSu-10:00</planllegada>
+<horasalida>16:30</horasalida>
+<horallegada>10:00+2</horallegada>
+<observaciones>Destination terminal: Bobadela (Portugal)..
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Zaragoza</origen>
+<idorigen>30</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>CONTREN RENFE</operador>
+<terminalferroviaria>Zaragoza PLAZA</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-23:25</plansalida>
+<planllegada>TuWeThFrSa-06:07</planllegada>
+<horasalida>23:25</horasalida>
+<horallegada>06:07+1</horallegada>
+<observaciones>Origin terminal: PLAZA (Zaragoza, Spain) 
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Zaragoza</destino>
+<iddestino>30</iddestino>
+<operador>CONTREN RENFE</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Zaragoza PLAZA</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-19:40</plansalida>
+<planllegada>TuWeThFrSa-01:29</planllegada>
+<horasalida>19:40</horasalida>
+<horallegada>01:29+1</horallegada>
+<observaciones>Destination terminal: PLAZA (Zaragoza, Spain).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Sevilla</origen>
+<idorigen>36</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>CONTREN RENFE</operador>
+<terminalferroviaria>Sevilla-La Negrilla</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>TuWeFr-00:00</plansalida>
+<planllegada>WeThSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Sevilla</destino>
+<iddestino>36</iddestino>
+<operador>CONTREN RENFE</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Sevilla-La Negrilla</terminalferroviariaDestino>
+<plansalida>MoWeFr-00:00</plansalida>
+<planllegada>TuThSa-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Sevilla La Negrilla terminal (Spain).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Madrid</origen>
+<idorigen>82</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>RENFE OPERADORA</operador>
+<terminalferroviaria>Abroñigal</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWeThSu-18:50</plansalida>
+<planllegada>TuWeThFrMo-12:29</planllegada>
+<horasalida>18:50</horasalida>
+<horallegada>12:29+1</horallegada>
+<observaciones>Confirm schedule whit the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Renfe</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Madrid</destino>
+<iddestino>82</iddestino>
+<operador>RENFE OPERADORA</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Abroñigal</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-16:30</plansalida>
+<planllegada>TuWeThFrSa-11:20</planllegada>
+<horasalida>16:30</horasalida>
+<horallegada>11:20+1</horallegada>
+<observaciones>Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Continental  Rail / Sicsa</descservicio>
+<origen>Bilbao</origen>
+<idorigen>6</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>Continental</operador>
+<terminalferroviaria>Bilbao Mercancías</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-12:48</plansalida>
+<planllegada>TuWeThFrSaSu-03:35</planllegada>
+<horasalida>12:48</horasalida>
+<horallegada>03:35+1</horallegada>
+<observaciones>Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Continental Rail  / Sicsa</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Bilbao</destino>
+<iddestino>6</iddestino>
+<operador>Continental</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Bilbao Mercancías</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-00:00</plansalida>
+<planllegada>TuWeThFrSaSu-00:00</planllegada>
+<horasalida>00:00</horasalida>
+<horallegada>00:00+1</horallegada>
+<observaciones>Bilbao Mercancías Terminal (Spain).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Sicsa Rail Transport</descservicio>
+<origen>Zaragoza</origen>
+<idorigen>30</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>SICSA  RAIL TRANSP.</operador>
+<terminalferroviaria>Zaragoza PLAZA</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Sud (APM)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-06:00</plansalida>
+<planllegada>MoTuWeThFr-14:00</planllegada>
+<horasalida>06:00</horasalida>
+<horallegada>14:00</horallegada>
+<observaciones>Confirm Schedule with the operator.
+</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Sicsa Rail Transport </descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Zaragoza</destino>
+<iddestino>30</iddestino>
+<operador>SICSA  RAIL TRANSP.</operador>
+<terminalferroviaria>Moll Sud (APM)</terminalferroviaria>
+<terminalferroviariaDestino>Zaragoza PLAZA</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-18:00</plansalida>
+<planllegada>TuWeThFrSa-02:00</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>02:00+1</horallegada>
+<observaciones>Confirm Schedule with the operator.
+
+</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Burgos</origen>
+<idorigen>23</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Villafría</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM)</terminalferroviariaDestino>
+<plansalida>WeFr-17:00</plansalida>
+<planllegada>ThSa-05:09</planllegada>
+<horasalida>17:00</horasalida>
+<horallegada>05:09+1</horallegada>
+<observaciones>Villafria terminal (Burgos, Spain)).
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>AMPT Railway</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Burgos</destino>
+<iddestino>23</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Moll Sud (APM)</terminalferroviaria>
+<terminalferroviariaDestino>Villafría</terminalferroviariaDestino>
+<plansalida>WeTh-06:40</plansalida>
+<planllegada>WeTh-19:07</planllegada>
+<horasalida>06:40</horasalida>
+<horallegada>19:07</horallegada>
+<observaciones>Villafría terminal (Burgos, Spain).
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Zaragoza</origen>
+<idorigen>26</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Zaragoza tmZ</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSaSu-13:00</plansalida>
+<planllegada>TuWeThFrSaSuMo-20:19</planllegada>
+<horasalida>13:00</horasalida>
+<horallegada>20:19+1</horallegada>
+<observaciones>5-7 daily services.
+Confirm schedules with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Zaragoza</destino>
+<iddestino>26</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Zaragoza tmZ</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-19:08</plansalida>
+<planllegada>TuWeThFrSaSu-01:19</planllegada>
+<horasalida>19:08</horasalida>
+<horallegada>01:19+1</horallegada>
+<observaciones>5-7 dayly services.
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Huesca</origen>
+<idorigen>43</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Monzón</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM)</terminalferroviariaDestino>
+<plansalida>MoTuWeTh-19:46</plansalida>
+<planllegada>TuWeThFr-00:27</planllegada>
+<horasalida>19:46</horasalida>
+<horallegada>00:27+1</horallegada>
+<observaciones>Monzón terminal (Huesca, Spain).
+Confirm schedule with the operator</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>APMT Railway</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Huesca</destino>
+<iddestino>43</iddestino>
+<operador>APM SPAIN RAILWAY</operador>
+<terminalferroviaria>Moll Sud (APM)</terminalferroviaria>
+<terminalferroviariaDestino>Monzón</terminalferroviariaDestino>
+<plansalida>MoTuWeTh-12:40</plansalida>
+<planllegada>TuWeThFr-17:28</planllegada>
+<horasalida>12:40</horasalida>
+<horallegada>17:28+1</horallegada>
+<observaciones>Monzón terminal (Huesca, Spain)
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Tarragona</descservicio>
+<origen>Tarragona</origen>
+<idorigen>39</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Tarragona Entrevías</terminalferroviaria>
+<terminalferroviariaDestino>Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSaSu-19:30</plansalida>
+<planllegada>TuWeThFrSaSuMo-07:00</planllegada>
+<horasalida>19:30</horasalida>
+<horallegada>07:00+1</horallegada>
+<observaciones>Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Tarragona</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Tarragona</destino>
+<iddestino>39</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Tarragona Entrevías</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSaSu-16:00</plansalida>
+<planllegada>TuWeThFrSaSuMo-07:00</planllegada>
+<horasalida>16:00</horasalida>
+<horallegada>07:00+1</horallegada>
+<observaciones>Tarragona Classificació terminal (Tarragpna, Spain)
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA París</descservicio>
+<origen>Paris</origen>
+<idorigen>63</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Paris-Valenton</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-17:15</plansalida>
+<planllegada>WeThFrSaSu-07:00</planllegada>
+<horasalida>17:15</horasalida>
+<horallegada>07:00+2</horallegada>
+<observaciones>Paris Valenton terminal origin (France). 
+Barcelona terminals destination: TCB, Best and Morrot.
+Confirm schedule whit the operator.
+Collaboration with Novatrans.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA París</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Paris</destino>
+<iddestino>63</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Paris-Valenton</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-18:00</plansalida>
+<planllegada>WeThFrSaSu-06:00</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>06:00+2</horallegada>
+<observaciones>Barcelona terminals: TCB, Best and Morrot.
+Paris VAlenton terminal (France).
+Confirm schedule with the operator.
+Collaboration with Novatrans.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Toulouse</descservicio>
+<origen>Toulouse</origen>
+<idorigen>35</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Toulouse Fenouillet</terminalferroviaria>
+<terminalferroviariaDestino>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviariaDestino>
+<plansalida>We-18:00</plansalida>
+<planllegada>Fr-07:00</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>07:00+2</horallegada>
+<observaciones>Toulousse Fenouillet terminal origin  (France). Barcelona terminals destination: TCB, Best+Morrot.
+Confirm schedule with the operator.
+Collaboration with Novatrans.
+</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>TP NOVA Toulouse</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Toulouse</destino>
+<iddestino>35</iddestino>
+<operador>TP NOVA</operador>
+<terminalferroviaria>Moll Sud (APM) - Moll Prat (BEST)</terminalferroviaria>
+<terminalferroviariaDestino>Toulouse Fenouillet</terminalferroviariaDestino>
+<plansalida>Mo-18:00</plansalida>
+<planllegada>We-07:00</planllegada>
+<horasalida>18:00</horasalida>
+<horallegada>07:00+2</horallegada>
+<observaciones>Terminal Toulousse Fenouillet (France).
+Barcelona terminals: TCB, Best and Morrot.
+Confirm Schedule with the operator.
+Collaboration with Novatrans.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Kombiverkehr</descservicio>
+<origen>Ludwigshafen</origen>
+<idorigen>55</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>KOMBIVERKEHR</operador>
+<terminalferroviaria>Ludwigshafen</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWeFr-19:10</plansalida>
+<planllegada>WeThFrSu-07:00</planllegada>
+<horasalida>19:10</horasalida>
+<horallegada>07:00+2</horallegada>
+<observaciones>Ludwigshafen terminal (Germany).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Kombiverkehr</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Ludwigshafen</destino>
+<iddestino>55</iddestino>
+<operador>KOMBIVERKEHR</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Ludwigshafen</terminalferroviariaDestino>
+<plansalida>TuWeThFr-19:00</plansalida>
+<planllegada>ThFrSaSu-07:30</planllegada>
+<horasalida>19:00</horasalida>
+<horallegada>07:30+2</horallegada>
+<observaciones>Ludwigshafen terminal  (Germany).
+Confir schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Viia Lorry Rail. Le Boulou-Bettembourg</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Bettembourg</destino>
+<iddestino>65</iddestino>
+<operador>LORRY-RAIL</operador>
+<terminalferroviaria>Le Boulou - El Voló</terminalferroviaria>
+<terminalferroviariaDestino>Bettembourg</terminalferroviariaDestino>
+<plansalida>MoTuWeThFrSa-11:30</plansalida>
+<planllegada>TuWeThFrSaSu-10:00</planllegada>
+<horasalida>11:30</horasalida>
+<horallegada>10:00+1</horallegada>
+<observaciones>Bettembourg terminal (Luxembourg).
+Barcelona-Le Boulou: 173Km.
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Hupac</descservicio>
+<origen>Antwerp</origen>
+<idorigen>56</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>Hupac Intermodal</operador>
+<terminalferroviaria>Antwerp Combinant</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-17:00</plansalida>
+<planllegada>WeThFrSaSu-15:00</planllegada>
+<horasalida>17:00</horasalida>
+<horallegada>15:00+2</horallegada>
+<observaciones>Antwerp Combinant Terminal  (Belgium).
+Confirm Schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Hupac</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Antwerp</destino>
+<iddestino>56</iddestino>
+<operador>Hupac Intermodal</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Antwerp Combinant</terminalferroviariaDestino>
+<plansalida>MoTuWeThFr-17:50</plansalida>
+<planllegada>WeThFrSaSu-09:30</planllegada>
+<horasalida>17:50</horasalida>
+<horallegada>09:30+2</horallegada>
+<observaciones>Antwerp Combinant terminal (Antwerp, Belgium).
+Confirm schedule with the operator.</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Hupac</descservicio>
+<origen>Busto Arsizio</origen>
+<idorigen>57</idorigen>
+<destino>Barcelona</destino>
+<iddestino>7</iddestino>
+<operador>Hupac Intermodal</operador>
+<terminalferroviaria>Busto Arsizio</terminalferroviaria>
+<terminalferroviariaDestino>Morrot</terminalferroviariaDestino>
+<plansalida>MoThSa-19:00</plansalida>
+<planllegada>WeSaMo-17:00</planllegada>
+<horasalida>19:00</horasalida>
+<horallegada>17:00+2</horallegada>
+<observaciones>Teminal Busto Arstizio (Italy).
+Confirm schedules with the operator.
+
+</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+<serviciocompacto>
+<descservicio>Hupac</descservicio>
+<origen>Barcelona</origen>
+<idorigen>7</idorigen>
+<destino>Busto Arsizio</destino>
+<iddestino>57</iddestino>
+<operador>Hupac Intermodal</operador>
+<terminalferroviaria>Morrot</terminalferroviaria>
+<terminalferroviariaDestino>Busto Arsizio</terminalferroviariaDestino>
+<plansalida>TuWeSa-16:30</plansalida>
+<planllegada>ThFrMo-09:30</planllegada>
+<horasalida>16:30</horasalida>
+<horallegada>09:30+2</horallegada>
+<observaciones>Terminal Busto (Italia).
+Confirm schedule with the operator.
+
+</observaciones>
+<tipoCarga>CONTENEDORES</tipoCarga>
+</serviciocompacto>
+</serviciosferroviarios>
+
