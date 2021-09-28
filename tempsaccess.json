@@ -4,7 +4,8 @@
     "vars": {
       "tempsAcces": 7,
       "tempsOperacio": 6,
-      "tempsTotal": 5
+      "tempsTotal": 5,
+      "reservesDisponibles": 10
     }
   },
   {
@@ -12,7 +13,8 @@
     "vars": {
       "tempsAcces": 10,
       "tempsOperacio": 3,
-      "tempsTotal": 2
+      "tempsTotal": 2,
+      "reservesDisponibles": 20
     }
   }
 ]
