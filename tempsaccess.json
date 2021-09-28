@@ -10,9 +10,9 @@
   {
     "id": "best",
     "vars": {
-      "tempsAcces": 7,
-      "tempsOperacio": 6,
-      "tempsTotal": 5
+      "tempsAcces": 10,
+      "tempsOperacio": 3,
+      "tempsTotal": 2
     }
   }
 ]
