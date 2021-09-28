@@ -16,5 +16,14 @@
       "tempsTotal": 2,
       "reservesDisponibles": 20
     }
+  },
+  {
+    "id": "portnou",
+    "vars": {
+      "tempsAcces": 10,
+      "tempsOperacio": 3,
+      "tempsTotal": 2,
+      "reservesDisponibles": 20
+    }
   }
 ]
