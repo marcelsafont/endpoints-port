@@ -15,6 +15,7 @@
 <horallegada>09:00</horallegada>
 <observaciones>Confirm schedules with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AA</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -31,6 +32,7 @@
 <horallegada>18:00</horallegada>
 <observaciones>Confirm schedules with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AA</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Shuttlewise</descservicio>
@@ -47,6 +49,7 @@
 <horallegada>07:00+3</horallegada>
 <observaciones>Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AD</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Shuttlewise</descservicio>
@@ -63,6 +66,7 @@
 <horallegada>07:00+3</horallegada>
 <observaciones>Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AD</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail Bettembourg-Barcelona</descservicio>
@@ -80,6 +84,7 @@
 <observaciones>Schedules to be confirmed with the operator
 Barcelona terminal: Can Tunis-Grupo Alonso</observaciones>
 <tipoCarga>REMOLQUE</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>DB Cargo Logsitics - Rail Motorway</descservicio>
@@ -97,6 +102,7 @@ Barcelona terminal: Can Tunis-Grupo Alonso</observaciones>
 <observaciones>Service Perpignan-Saarbrücken. Craneable semi-trailers and containers.
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>DB Cargo Logistics - Rail Motorway</descservicio>
@@ -114,6 +120,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Service Saarbrücken-Perpignan. Craneable semi-trailers and containers
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Synergy</descservicio>
@@ -131,6 +138,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Miranda de Ebro Terminal  (Burgos).
 Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Synergy</descservicio>
@@ -148,6 +156,7 @@ Schedules to be confirmed with the operator.</observaciones>
 <observaciones>Miranda de Ebro Terminal (Burgos).
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>N/D</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -165,6 +174,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Arrivals We/Sa 18:30.
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -182,6 +192,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Arrivals We/Fr 11:30
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -199,6 +210,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Arrivals We/Sa 18:30.
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -216,6 +228,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Arrivals We/Fr 05:00.
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -233,6 +246,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Arrivals We/Sa 17:30.
 Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Multirail</descservicio>
@@ -250,6 +264,7 @@ Schedules to be confirmed with the operator.</observaciones>
 <observaciones>Arrivals Mo/We/Fr 09:00.
 Schedules to be confirmed with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>SICSA Rail Transport</descservicio>
@@ -266,6 +281,7 @@ Schedules to be confirmed with the operator</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Railway siding LTA (Zaragoza PLAZA, Spain). Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>N/D</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>SICSA Rail Transport</descservicio>
@@ -282,6 +298,7 @@ Schedules to be confirmed with the operator</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Railway siding LTA (Zaragoza PLAZA, Spain). Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>N/D</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway / Synergy</descservicio>
@@ -298,6 +315,7 @@ Schedules to be confirmed with the operator</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway / Synergy</descservicio>
@@ -314,6 +332,7 @@ Schedules to be confirmed with the operator</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Schedules to be confirmed with the operator. </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -330,6 +349,7 @@ Schedules to be confirmed with the operator</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Schedules to be confirmed with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail. Le Boulou-Dover</descservicio>
@@ -347,6 +367,7 @@ Schedules to be confirmed with the operator</observaciones>
 <observaciones>Schedules to be confirmed with the operator.
 Barcelona-Le Boulou 173 km.</observaciones>
 <tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail. Dover -Le Boulou</descservicio>
@@ -364,6 +385,7 @@ Barcelona-Le Boulou 173 km.</observaciones>
 <observaciones>Schedules to be confirmed with the operator.
 Barcelona-Le Boulou 173 km.</observaciones>
 <tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail. Calais - Le Boulou</descservicio>
@@ -381,6 +403,7 @@ Barcelona-Le Boulou 173 km.</observaciones>
 <observaciones>Schedules to be confirmed with the operator.
 Barcelona-Le Boulou: 173 km.</observaciones>
 <tipoCarga>N/D</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail. Le Boulou-Calais</descservicio>
@@ -398,6 +421,7 @@ Barcelona-Le Boulou: 173 km.</observaciones>
 <observaciones>Schedule to be confirmed with the operator.
 Barcelona-Le Boulou: 173 Km.</observaciones>
 <tipoCarga>CONTENEDORES-REMOLQUE</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -414,6 +438,7 @@ Barcelona-Le Boulou: 173 Km.</observaciones>
 <horallegada>10:29+1</horallegada>
 <observaciones>Confirm schedule with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Dourges</descservicio>
@@ -433,6 +458,7 @@ Destination terminals in Barcelona: TCB, BEST and Morrot
 Collaboration with Novatrans.
 Confirm schedule with the operador.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Dourges</descservicio>
@@ -452,6 +478,7 @@ Destination terminal: Dourges (Lille, France)
 Collaboration with Novatrans.
 Confirm schedules with the operador.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Synergy</descservicio>
@@ -469,6 +496,7 @@ Confirm schedules with the operador.</observaciones>
 <observaciones>Origin terminal : Noáin (Pamplona, Spain).
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Synergy</descservicio>
@@ -486,6 +514,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Terminal Noáin (Navarre, Spain).
 Confirm schedules with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -503,6 +532,7 @@ Confirm schedules with the operator</observaciones>
 <observaciones>Destination terminal: Bobadela (Portugal).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -520,6 +550,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Destination terminal: Bobadela (Portugal)..
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -537,6 +568,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Origin terminal: PLAZA (Zaragoza, Spain) 
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -554,6 +586,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Destination terminal: PLAZA (Zaragoza, Spain).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -570,6 +603,7 @@ Confirm schedule with the operator.</observaciones>
 <horallegada>00:00+1</horallegada>
 <observaciones>Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -587,6 +621,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Sevilla La Negrilla terminal (Spain).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -603,6 +638,7 @@ Confirm schedule with the operator.</observaciones>
 <horallegada>12:29+1</horallegada>
 <observaciones>Confirm schedule whit the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Renfe</descservicio>
@@ -619,6 +655,7 @@ Confirm schedule with the operator.</observaciones>
 <horallegada>11:20+1</horallegada>
 <observaciones>Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Continental  Rail / Sicsa</descservicio>
@@ -635,6 +672,7 @@ Confirm schedule with the operator.</observaciones>
 <horallegada>03:35+1</horallegada>
 <observaciones>Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Continental Rail  / Sicsa</descservicio>
@@ -652,6 +690,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Bilbao Mercancías Terminal (Spain).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Sicsa Rail Transport</descservicio>
@@ -669,6 +708,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Confirm Schedule with the operator.
 </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AA</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Sicsa Rail Transport </descservicio>
@@ -687,6 +727,7 @@ Confirm schedule with the operator.</observaciones>
 
 </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -704,6 +745,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Villafria terminal (Burgos, Spain)).
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>AMPT Railway</descservicio>
@@ -721,6 +763,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Villafría terminal (Burgos, Spain).
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AA</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -738,6 +781,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>5-7 daily services.
 Confirm schedules with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -755,6 +799,7 @@ Confirm schedules with the operator.</observaciones>
 <observaciones>5-7 dayly services.
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -772,6 +817,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Monzón terminal (Huesca, Spain).
 Confirm schedule with the operator</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>APMT Railway</descservicio>
@@ -789,6 +835,7 @@ Confirm schedule with the operator</observaciones>
 <observaciones>Monzón terminal (Huesca, Spain)
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Tarragona</descservicio>
@@ -805,6 +852,7 @@ Confirm Schedule with the operator.</observaciones>
 <horallegada>07:00+1</horallegada>
 <observaciones>Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Tarragona</descservicio>
@@ -822,6 +870,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Tarragona Classificació terminal (Tarragpna, Spain)
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA París</descservicio>
@@ -841,6 +890,7 @@ Barcelona terminals destination: TCB, Best and Morrot.
 Confirm schedule whit the operator.
 Collaboration with Novatrans.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA París</descservicio>
@@ -860,6 +910,7 @@ Paris VAlenton terminal (France).
 Confirm schedule with the operator.
 Collaboration with Novatrans.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Toulouse</descservicio>
@@ -879,6 +930,7 @@ Confirm schedule with the operator.
 Collaboration with Novatrans.
 </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>TP NOVA Toulouse</descservicio>
@@ -898,6 +950,7 @@ Barcelona terminals: TCB, Best and Morrot.
 Confirm Schedule with the operator.
 Collaboration with Novatrans.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Kombiverkehr</descservicio>
@@ -915,6 +968,7 @@ Collaboration with Novatrans.</observaciones>
 <observaciones>Ludwigshafen terminal (Germany).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Kombiverkehr</descservicio>
@@ -932,6 +986,7 @@ Confirm schedule with the operator.</observaciones>
 <observaciones>Ludwigshafen terminal  (Germany).
 Confir schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Viia Lorry Rail. Le Boulou-Bettembourg</descservicio>
@@ -950,6 +1005,7 @@ Confir schedule with the operator.</observaciones>
 Barcelona-Le Boulou: 173Km.
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AB</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Hupac</descservicio>
@@ -967,6 +1023,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Antwerp Combinant Terminal  (Belgium).
 Confirm Schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Hupac</descservicio>
@@ -984,6 +1041,7 @@ Confirm Schedule with the operator.</observaciones>
 <observaciones>Antwerp Combinant terminal (Antwerp, Belgium).
 Confirm schedule with the operator.</observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Hupac</descservicio>
@@ -1003,6 +1061,7 @@ Confirm schedules with the operator.
 
 </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 <serviciocompacto>
 <descservicio>Hupac</descservicio>
@@ -1022,6 +1081,7 @@ Confirm schedule with the operator.
 
 </observaciones>
 <tipoCarga>CONTENEDORES</tipoCarga>
+<transittime>AC</transittime>
 </serviciocompacto>
 </serviciosferroviarios>
 
